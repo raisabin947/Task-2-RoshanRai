@@ -101,11 +101,8 @@ No additional installation or dependencies are required.
 Add screenshots of your project here after completion.
 
 ```
-screenshots/
-├── desktop.png
-├── tablet.png
-└── mobile.png
-```
+<img width="1339" height="642" alt="image" src="https://github.com/user-attachments/assets/44ac1c9c-6046-413e-8c4c-ade865f4d46a" />
+
 
 ---
 
